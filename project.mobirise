@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "씨제이어학원",
+    "name": "민병철어학원 청주분원",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 48,
@@ -41,7 +41,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "씨제이어학원",
+        "title": "민병철어학원 청주분원",
         "meta_descr": "기업체 출강전문",
         "header_custom": "",
         "footer_custom": "",
